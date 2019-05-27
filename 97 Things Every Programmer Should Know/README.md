@@ -2,10 +2,12 @@
 ===================
 原文链接：https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/thing_01/
 
-##目录
+目录
+---
 * 01 谨慎行事（#01谨慎行事）
 
-##01 谨慎行事
+01 谨慎行事
+----------
 
 ｀“无论做任何事情，都要深思熟虑再行动” ——Anon｀
 
